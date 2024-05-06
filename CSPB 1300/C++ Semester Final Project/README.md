@@ -20,10 +20,10 @@ In addition to these required processes in the project, I've added a few additio
 
 1. User input validation has been for all points of user interaction. Program will continue to operate in the event the user inputs an incorrect value and will notify the user of the error and continuously prompt user to input a new value until a correct value is provided.
 2. Additional image processes were added:
-  1. Sepia Tone
-  2. Sobel Edge Detection
-  3. High Pass (Sharpen)
-  4. Image Blend
+- Sepia Tone
+- Sobel Edge Detection
+- High Pass (Sharpen)
+- image Blend
 
 Files included within the directory:
 1. lassiter_main.cpp - This contains the overall application
