@@ -25,7 +25,7 @@ In addition to these required processes in the project, I've added a few additio
 - Sepia Tone
 - Sobel Edge Detection
 - High Pass (Sharpen)
-- image Blend
+- Image Blend
 
 Files included within the directory:
 1. lassiter_main.cpp - This contains the overall application
