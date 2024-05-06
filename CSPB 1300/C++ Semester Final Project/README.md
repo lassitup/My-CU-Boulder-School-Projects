@@ -5,7 +5,7 @@ This Directory contains the resuls of my final project for my CSPB 1300 course (
 The objective of the project was to create an application using the C++ language, that can take a raw bitmap image, manipulate it and return a new image based on the user's desired image type. For the project, the class was provided a series of 10 algorithms for image processing in the Python language. We were to convert the python into C++ and then build a user interface, which allowed the user to enter the name of the input image names and select the desired process. The application allows for the user to graciously exit the program by selecting a letter to quit.  
 
 The image processes in python initially provided to the class were as follows:
-1. Vignetter
+1. Vignette
 2. Clarendon
 3. Grayscale
 4. Rotate 90 Degrees
