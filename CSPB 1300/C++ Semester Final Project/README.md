@@ -29,10 +29,7 @@ Files included within the directory:
 1. lassiter_main.cpp - This contains the overall application
 2. sample.bmp - this is the bitmap image used for grading purposes of the class and provided to students for use in development of our application.
 3. blackbuck.bmp - this was an additional bitmap image downloaded from the Universiy of South Carolina (https://people.math.sc.edu/Burkardt/data/bmp/bmp.html)
-
-
-
-Sample Images:
+4. Sample Images Directory - Samples of image outputs are included in this directory
 
 
 
