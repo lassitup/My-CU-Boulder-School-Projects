@@ -1,4 +1,4 @@
-This repository contains a walkthrough of the RSA Encryption Method. RSA is an acronym for the names of the individuals that first publicly revealed the encryption scheme - Ron Rivest, Adi Shamir and Leonard Adleman of the Massachusetts Institute of Technology, in 1977. 
+This repository contains a walkthrough of the RSA Cryptosystem. RSA is an acronym for the names of the individuals that first publicly revealed the encryption scheme - Ron Rivest, Adi Shamir and Leonard Adleman of the Massachusetts Institute of Technology, in 1977. 
 
 As explained within the Jupyter Notebook, the overall effectiveness of this encryption scheme is based on the inability to factor large integers and the use of two different keys, a public key and a private key - in cryptology this is called Asymmetric Cryptography. 
 
